@@ -6,4 +6,4 @@
 - [x] Add audit evidence and live authorization coverage for clerk submission and manager approval.
 - [x] Add strict portfolio README and CI workflow.
 - [x] Complete final verification and publish public repository.
-- [ ] Update the portfolio ledger entry.
+- [x] Update the portfolio ledger entry.
