@@ -5,4 +5,5 @@
 - [x] Verify a live credential submission and approval lifecycle on port 13000.
 - [x] Add audit evidence and live authorization coverage for clerk submission and manager approval.
 - [x] Add strict portfolio README and CI workflow.
-- [ ] Complete final verification, publish public repository, and update the ledger.
+- [x] Complete final verification and publish public repository.
+- [ ] Update the portfolio ledger entry.
